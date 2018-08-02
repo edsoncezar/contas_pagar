@@ -1,0 +1,176 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\lixo
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+SIP.bmp=
+TRFFC10A.ICO=
+TRFFC14.ICO=
+SECUR08.ICO=
+Base_CPagar.mdb=
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\Arquivos de programas\Arquivos comuns\SYSTEM\ADO\msjro.dll=
+C:\Program Files\Common Files\designer\MSDERUN.DLL=
+C:\WINDOWS\SYSTEM\msjro.dll=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=
+
+[Package|Standard Setup Package 1|Files Added]
+base_cpagar.mdb=
+secur08.ico=
+trffc14.ico=
+trffc10a.ico=
+sip.bmp=
+C:\Contas\dados\Base_CPagar.mdb=
+C:\Contas\ico\SECUR08.ICO=
+C:\Contas\ico\TRFFC10A.ICO=
+C:\Contas\ico\TRFFC14.ICO=
+C:\Contas\images\SIP.bmp=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\WINDOWS\SYSTEM\msvbvm60.dll=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=Yes
+C:\WINDOWS\SYSTEM\msjet40.dll=Yes
+C:\WINDOWS\SYSTEM\msjter40.dll=Yes
+C:\WINDOWS\SYSTEM\msjint40.dll=Yes
+C:\WINDOWS\SYSTEM\vbajet32.dll=Yes
+C:\WINDOWS\SYSTEM\expsrv.dll=Yes
+C:\WINDOWS\SYSTEM\mswstr10.dll=Yes
+C:\WINDOWS\SYSTEM\mswdat10.dll=Yes
+C:\WINDOWS\SYSTEM\msrd2x40.dll=Yes
+C:\WINDOWS\SYSTEM\msrd3x40.dll=Yes
+C:\WINDOWS\SYSTEM\msrepl40.dll=Yes
+C:\WINDOWS\SYSTEM\msjtes40.dll=Yes
+C:\WINDOWS\SYSTEM\VB5DB.DLL=Yes
+C:\WINDOWS\SYSTEM\DBGRID32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Contas\executavel\ContasAPagar.exe=Yes
+C:\WINDOWS\SYSTEM\msjro.dll=Yes
+C:\Program Files\Common Files\designer\MSDERUN.DLL=Yes
+C:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\dao360.dll=Yes
+C:\Contas\dados\Base_CPagar.mdb=Yes
+C:\Contas\ico\SECUR08.ICO=Yes
+C:\Contas\ico\TRFFC10A.ICO=Yes
+C:\Contas\ico\TRFFC14.ICO=Yes
+C:\Contas\images\SIP.bmp=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\Contas a Pagar\executavel\ContasAPagar.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Arquivos comuns\SYSTEM\ADO\msjro.dll=$(WinSysPath)
+C:\Arquivos de programas\Arquivos comuns\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINDOWS\SYSTEM\Mscomctl.ocx=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\Dao\dao360.dll=$(MSDAOPath)
+C:\WINDOWS\SYSTEM\msjet40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msjter40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msjint40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DBGRID32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Contas a Pagar\dados\Base_CPagar.mdb=$(AppPath)
+C:\Contas a Pagar\ico\SECUR08.ICO=$(AppPath)
+C:\Contas a Pagar\ico\TRFFC14.ICO=$(AppPath)
+C:\Contas a Pagar\ico\TRFFC10A.ICO=$(AppPath)
+C:\Contas a Pagar\images\SIP.bmp=$(AppPath)
+C:\Contas\executavel\ContasAPagar.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\msjro.dll=$(WinSysPath)
+C:\Program Files\Common Files\designer\MSDERUN.DLL=$(WinSysPath)
+C:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\dao360.dll=$(MSDAOPath)
+C:\Contas\dados\Base_CPagar.mdb=$(AppPath)\dados
+C:\Contas\ico\SECUR08.ICO=$(AppPath)\ico
+C:\Contas\ico\TRFFC10A.ICO=$(AppPath)\ico
+C:\Contas\ico\TRFFC14.ICO=$(AppPath)\ico
+C:\Contas\images\SIP.bmp=$(AppPath)\images
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\Contas a Pagar\executavel\ContasAPagar.exe=No
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Contas a Pagar\dados\Base_CPagar.mdb=No
+C:\Contas a Pagar\ico\SECUR08.ICO=No
+C:\Contas a Pagar\ico\TRFFC14.ICO=No
+C:\Contas a Pagar\ico\TRFFC10A.ICO=No
+C:\Contas a Pagar\images\SIP.bmp=No
+C:\Contas\executavel\ContasAPagar.exe=No
+C:\Contas\dados\Base_CPagar.mdb=No
+C:\Contas\ico\SECUR08.ICO=No
+C:\Contas\ico\TRFFC10A.ICO=No
+C:\Contas\ico\TRFFC14.ICO=No
+C:\Contas\images\SIP.bmp=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Contas à Pagar
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Contas à Pagar
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Contas à Pagar]
+Icon1=ContasAPagar.exe
+Title1=Contas à Pagar
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=d:\lixo
+ProjectFolder=C:\Contas
+ServerSideCab=
+File1=d:\lixo\setup.exe
+File2=d:\lixo\Setup.Lst
+File3=d:\lixo\ContasAPagar.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

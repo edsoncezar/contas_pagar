@@ -1,0 +1,4 @@
+Line 18: Class MSDBGrid.DBGrid of control GRIDFornecedores was not a loaded control class.
+Line 10: Property Icon in frmConsultaFornecedores had an invalid file reference.
+Line 19: The property name Bindings in GRIDFornecedores is invalid.
+Line 22: The property name OleObjectBlob in GRIDFornecedores is invalid.

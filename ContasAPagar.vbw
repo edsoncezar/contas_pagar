@@ -1,0 +1,15 @@
+frmPedidoCompra = 174, 100, 546, 445, C, 154, 154, 510, 500, C
+m00001 = -269, 55, 531, 556, C
+frmLogin = -76, 27, 371, 594, C, 44, 44, 400, 390, C
+frmNotasFiscais = 233, 93, 680, 660, C, 44, 44, 400, 390, C
+frmFornecedores = 311, 130, 667, 476, CZ, 110, 110, 466, 456, C
+frmAbout = 129, 103, 576, 511, C, 0, 0, 0, 0, C
+frmDescricao = 129, 103, 576, 511, C, 0, 0, 0, 0, C
+frmHelp = 129, 103, 576, 511, CZ, 0, 0, 0, 0, C
+mdiMenu = 57, 150, 817, 532, C, 0, 0, 0, 0, C
+frmSplash = 195, 117, 642, 684, C, 0, 0, 0, 0, C
+frmConsultaPedidos = 129, 103, 576, 511, C, 66, 66, 427, 412, C
+frmConsultaNotas = 129, 103, 576, 511, C, 0, 0, 0, 0, C
+frmUsuarios = 566, 77, 1013, 618, CZ, 0, 0, 0, 0, C
+frmConsultaFornecedores = 154, 129, 601, 511, CZ, 0, 0, 0, 0, C
+frmConsultaUsuarios = 154, 129, 601, 511, C, 0, 0, 0, 0, C
